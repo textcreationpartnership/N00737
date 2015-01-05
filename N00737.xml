@@ -122,8 +122,10 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000886_0000_0FAC96CC334DF110" rendition="simple:additions"/>
-            <pb facs="tcp:000886_0001_0FAC96CD296C9188" rendition="simple:additions"/>
+            <pb facs="unknown:000886_0000_0FAC96CC334DF110"
+                rendition="simple:additions"/>
+            <pb facs="unknown:000886_0001_0FAC96CD296C9188"
+                rendition="simple:additions"/>
             <head>
                <figure/> By The Honourable <hi>John Nanfan, <abbr>Eſq</abbr>
                </hi> Lieutenant Governour and Commander in Chief of His Majeſties Province of <hi>New-York,</hi> and Territories depending thereon in <hi>America, &amp;c.</hi> A PROCLAMATION</head>
